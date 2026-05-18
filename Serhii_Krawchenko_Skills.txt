@@ -1,0 +1,34 @@
+Serhii (Serhii) Krawchenko
+https://www.linkedin.com/in/serge-krawczenko-5a013427/
+
+Roles:
+- Network administrator/architect
+- Software design/architect
+- Infrastructure engineer
+
+Skills by scope
+
+Networks: Computer, Broadband, Mobile
+Physical media: Wired, Fiber, Wireless, Satellite, PDH/SDH, Starlink
+Network transport: IP, ATM/FR, VPN, IPSec, BGP, OSPF
+
+Operating systems: All Unix/Linux family, All Windows family
+Programming: C, Python, PHP, ASM (certified)
+Version control: Git (codecommit), Mercurial
+
+Databases: Postgres, MariaDB/MySQL, Microsoft SQL Server, MongoDB
+Clouds: AWS, Azure (AZ103 certified), IBM Cloud
+Virtualisation: VMware, Hyper-V
+
+Runtime environments: LAMP, Java Tomcat/JBoss/standalone, NodeJS, Ruby on Rails
+Containers/orchestration: Docker, Docker compose, Kubernetes (EKS)
+
+Identity management: Active Directory, LDAP, Radius
+SSO/MFA: SAML, OIDC, AD DS
+
+Infrastructure as code: Terraform, Ansible
+Log management: ELK
+Monitoring: Zabbix, Datadog, New Relic
+Project management: JIRA
+
+Languages: Ukrainian (fluent), English (B2 or so), Polish (some)
